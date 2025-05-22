@@ -63,6 +63,14 @@
     "date": {
       "type": "datetime",
       "required": true
+    },
+    "locationEmbed": {
+      "type": "text",
+      "required": true
+    },
+    "locationAddress": {
+      "type": "text",
+      "required": true
     }
   }
 }
